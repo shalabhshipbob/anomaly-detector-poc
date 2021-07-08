@@ -16,6 +16,7 @@ The Anomaly Detector API enables you to monitor and detect abnormalities in your
 * Once setup and deployed, get keys and endpoint information by going to the “Keys and Endpoint” menu in the left navigation bar.
 
 **Data**
+
 The Anomaly Detector API accepts time series data formatted into a JSON request object. A time series can be any numerical data recorded over time in sequential order.
 
 **Important terms**
